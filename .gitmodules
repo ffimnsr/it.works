@@ -1,0 +1,4 @@
+[submodule "acres-backend"]
+	path = acres-backend
+	url = git@github.com:jasonctan/acres-backend.git
+	branch = main
