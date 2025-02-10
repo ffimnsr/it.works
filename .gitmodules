@@ -2,3 +2,7 @@
 	path = acres-backend
 	url = git@github.com:jasonctan/acres-backend.git
 	branch = main
+[submodule "acres-frontend"]
+	path = acres-frontend
+	url = git@github.com:jasonctan/acres-frontend.git
+	branch = main
