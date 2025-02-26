@@ -6,3 +6,7 @@
 	path = acres-frontend
 	url = git@github.com:jasonctan/acres-frontend.git
 	branch = main
+[submodule "gmx-tracker"]
+	path = gmx-tracker
+	url = git@github.com:jasonctan/gmx-tracker.git
+	branch = main
